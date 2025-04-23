@@ -1,1 +1,3 @@
-/*# sourceMappingURL=styles.css.map */
+.navbar .btn-outline-light:hover {
+  color: var(--bs-dark);
+}/*# sourceMappingURL=styles.css.map */
